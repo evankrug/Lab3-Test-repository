@@ -23,4 +23,12 @@ public class meanFinder
 		println(meanFinder(data))
 	}
 
+    private int[] data;
+
+    public meanFinder()
+    {
+
+    }
+
+
 }
