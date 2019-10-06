@@ -7,9 +7,15 @@ public class meanFinder
     
     private int[] data;
 
-    public meanFinder()
+    public void meanFinder()
     {
 
     }
+    
+
+
+
+
+
 
 }
