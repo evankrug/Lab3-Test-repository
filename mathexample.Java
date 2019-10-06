@@ -3,9 +3,9 @@ public class MathFunctions
     private int count;
 
 
-    public int add(int fac1, int fac2)
+    public int add(int num1, int num2)
 	{
-		return fac1 * fac2;
+		return num1 + num2;
 	}
 	
 
